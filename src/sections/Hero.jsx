@@ -3,12 +3,10 @@ function Hero() {
     <section id="top" className="hero-section">
       <div className="hero-section__inner">
         <h1 className="hero-section__name">Zakaria Saidi</h1>
-        <p className="hero-section__title">
-          Python/Django Developer &amp; React Developer
-        </p>
+        <p className="hero-section__title">JavaScript &amp; Python Developer</p>
         <p className="hero-section__intro">
-          I build practical web applications using Python, Django, React and
-          modern web technologies.
+          I build practical web applications using Python and JavaScript using
+          modern web technologies (Django / React and Next.JS).
         </p>
         <div className="hero-section__actions">
           <a className="btn btn--primary" href="#projects">
@@ -36,7 +34,7 @@ function Hero() {
         </div>
       </div>
     </section>
-  )
+  );
 }
 
-export default Hero
+export default Hero;
