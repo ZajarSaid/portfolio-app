@@ -9,4 +9,9 @@ export const projects = [
     description: 'An application for managing transport requests efficiently.',
     demo: 'https://transportrequestapp.vercel.app/',
   },
+  {
+    title: "Farmer's Registry",
+    description: 'A registry application for managing farmer records.',
+    demo: 'https://farmers-react.vercel.app/',
+  },
 ]

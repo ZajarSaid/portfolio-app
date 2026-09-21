@@ -6,13 +6,13 @@ function Contact() {
         <div className="contact">
           <p>
             I am currently focusing on software development projects. If you
-            would like to get in touch, you can reach me at{' '}
-            <a href="mailto:youremail@example.com">youremail@example.com</a>.
+            would like to get in touch, you can reach me at{" "}
+            <a href="mailto:zajarjafary@gmail.com">zajarjafary@gmail.com</a>.
           </p>
         </div>
       </div>
     </section>
-  )
+  );
 }
 
-export default Contact
+export default Contact;
